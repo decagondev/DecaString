@@ -1,12 +1,20 @@
 {
-  "name": "stringy",
-  "version": "1.0.0",
+  "name": "decastring",
+  "version": "1.0.1",
   "description": "A npm package to manipulate strings",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "string",
+    "manipulation",
+    "reverse",
+    "capitalize",
+    "random"
+  ],
+  "author": "Tom Tarpey (decagondev)",
+  "license": "MIT",
+  "dependencies": {
+  }
 }
